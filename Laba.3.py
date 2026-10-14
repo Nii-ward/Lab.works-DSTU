@@ -1,6 +1,6 @@
 #Task num 1
 x = float(input("Задача №1: Укажите радиус окружности: "))
-
+#Проверка
 from math import*
 S = x**2 * (pi - 1)
 print(S)
